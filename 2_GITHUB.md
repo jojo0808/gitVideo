@@ -66,13 +66,14 @@ git branch
 ```
 
 ## Merging branches
+
 You can merge a branch to the master/main branch if you wish. Or you can decide not to merge and leave it as it is.
 
 The branch can be deleted or not. It is irrelevant until it is merged to the main branch.
 
 **Example**: Someone downloads your code on github, creates his own branch and makes changes to your original code. He could come to you and ask if he could merge his branch to the main one. You can decide to accept this proposition if you feel his modifications are helpful.
 
-### how to merge
+### How to merge
 + __push__ command
 ```shell
 git push origin new-branch     #push the neww branch to github
@@ -95,16 +96,17 @@ git pull origin master
 ```
 
 ## Save changes to Github from Git (local)
+
 This means we wish to *push* the changes from our computer to the github site.
 
-+ push command
++ __push__ command
 ```shell
 git pull origin master
 ```
 
 # Other commands
 
-+ __status_ command
++ __status__ command
 ```shell
 git status     #check status of changes
 ```
