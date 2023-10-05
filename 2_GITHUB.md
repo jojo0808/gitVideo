@@ -1,4 +1,5 @@
 # Source
+
 __[Youtube video link](https://youtu.be/mJ-qvsxPHp)__
 
 # Introduction
@@ -74,6 +75,7 @@ The branch can be deleted or not. It is irrelevant until it is merged to the mai
 **Example**: Someone downloads your code on github, creates his own branch and makes changes to your original code. He could come to you and ask if he could merge his branch to the main one. You can decide to accept this proposition if you feel his modifications are helpful.
 
 ### How to merge
+
 + __push__ command
 ```shell
 git push origin new-branch     #push the neww branch to github
@@ -88,7 +90,7 @@ You want both of them to be synched and up-to-date.
 
 ## Save changes from Github to Git (local)
 
-This means that we wish to *pull* the changes from github to our computer
+This means that we wish to *pull* the changes from github to our computer.
 
 + __pull__ command
 ```shell
@@ -101,7 +103,7 @@ This means we wish to *push* the changes from our computer to the github site.
 
 + __push__ command
 ```shell
-git pull origin master
+git push origin master
 ```
 
 # Other commands
