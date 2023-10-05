@@ -8,7 +8,6 @@ Definition (git): a memory card for code. To save your progress as you go. We en
 
 # Git Commands
 + init command
-<<<<<<< HEAD
 ```git init 		# this is equivalent to putting a memory card in the game console```
 
 + add command
@@ -27,23 +26,6 @@ Definition (git): a memory card for code. To save your progress as you go. We en
 ```git checkout <commit_hashcode> 			# to checkout a commit (a previously saved progress) = go back to a specific progress```
 <br>
 __NB__: when you go back to a saved progress, you automatical change branches
-=======
-`git init # this is equivalent to putting a memory card in the game console`
-
-+ add command
-`git add <file(s)> #what we want to save. a specific file or all files #e.g git add file or git add . #the latter inicates pushing changes on all files in the current directory = add all the files-to-be-saved to the staging area`
-
-+ commit command
-`git commit #commits all files in the staging area into memory (actual saving command)`
-`git commit -m #commit + adds message -> a message that describes the saves`(to understand the progress)
-
-+ log command
-`git log #to check the log of all the saved changes # there is a hash code that allows you to go back to a specific saved progress`
-
-+ checkout command
-`git checkout <commit_hashcode> #to checkout a commit (a previously saved progress) = go back to a specific progress`
-NB: when you go back to a saved progress, you automatical change branches
->>>>>>> 466372c5ade5bdbd9e8852b6d9644d9f0f813edb
 
 
 
