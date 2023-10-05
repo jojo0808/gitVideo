@@ -1,5 +1,6 @@
 # Source
-	https://youtu.be/mJ-qvsxPHp
+
+__[link text](https://youtu.be/mJ-qvsxPHp)__
 
 # Introduction
 git != github
@@ -51,7 +52,7 @@ git checkout <commit_hashcode>
 # to checkout a commit (a previously saved progress) = go back to a specific progress
 ```
 
-__NB__: when you go back to a saved progress, you automatical change branches
+>__NB__: when you go back to a saved progress, you automatical change branches
 
 
 
