@@ -9,10 +9,11 @@ Definition (git): software, already installed on your computer (macOS/linux)
 Definition (git): a memory card for code. To save your progress as you go. We enter a command to save our progress so we can goback to our saved progress as we wish. The files are saved locally
 
 # Git Commands
-+ <span style="background:black;color:white">__init__</span> command
++ <code style="background:black;color:white">__init__</code> command
 
 ```shell
-git init 		# this is equivalent to putting a memory card in the game console
+git init 		
+# this is equivalent to putting a memory card in the game console
 ```
 
 + __add__ command
